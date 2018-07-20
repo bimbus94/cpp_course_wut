@@ -6,11 +6,13 @@ It's simple console Space Invaders Game written using Oriented Object Programmin
 ![sp_inv](img/space.png)
 
 ### Instalation on Linux
-1. Download *src* folder
-2. Open console *CTRL+ALT+T* (on Ubuntu)
-3. Go to *src* folder with game using *cd*
-4. Run *g++ *.cpp -o space_invaders*
-5. Run *./space_invaders* file
+
+1. Download 'src' folder
+2. Open console 'CTRL+ALT+T' (on Ubuntu)
+3. Go to 'src' folder with game using 'cd'
+4. Run 'g++ *.cpp -o space_invaders'
+5. Run './space_invaders' file
+
 
 ### Keyboard keys
 * **A** - left move
