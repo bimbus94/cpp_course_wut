@@ -1,0 +1,15 @@
+class Menu // menu gry
+{};
+
+class Game // klasa glownej gry
+{};
+
+class GameOver //klasa przegranej gry
+{};
+
+class GameWin //klasa wygranej gry
+{};
+
+class HallOfFame //ranking mozna zapisywac i sortowac i np czytac przykladowe z pliku
+{};
+
